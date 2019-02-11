@@ -32,6 +32,14 @@ h2 {
 	color: #8fa1b3;
 }
 
+.name {
+	font-size: 23px;
+}
+
+.about-me {
+	font-size: 18px
+}
+
 p {
 	font-size: 16px;
 	line-height: 1.5;
@@ -45,11 +53,12 @@ img {
 	margin: 0 auto;
 	
 }
-.name {
-	font-size: 20px;
-}
 
+.twitter,.github,.instagram,.linkedin{
+	font-size: 14px;
+}
 nav {
+
 }
 
 /*!-- STYLING LINKS --> */

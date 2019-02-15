@@ -12,26 +12,10 @@ body {
 	/*border: 1px solid black;*/
 }
 
-
-h1 {
-	font-size: 60px;
-	text-align: center;
-	/* color: white; */
+main {
+	padding: 17% 0 0 0;
 }
 
-/* 2nd styling for the heading */
-h1 {
-	margin: 0;
-	padding: 20px 0;
-	color: white;
-	text-shadow: 1px 1px 1px #8fa1b3;
-}
-
-h2 {
-	font-size: 30px;
-	text-align: center;
-	color: #8fa1b3;
-}
 
 .name {
 	font-size: 23px;
@@ -49,15 +33,18 @@ p {
 	color: white;
 }
 
+/*
 img {
 	display: block;
 	margin: 0 auto;
 	
 }
+*/
 
 .twitter,.github,.instagram,.linkedin{
 	font-size: 14px;
 }
+
 nav {
 }
 

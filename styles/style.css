@@ -6,16 +6,11 @@ html {
 
 body {
 	width: 500px;
-	margin: 15% auto;
+	margin: 23% auto;
 	background-color: white;
 	padding: 0 0 0 0;
 	/*border: 1px solid black;*/
 }
-
-main {
-	padding: 17% 0 0 0;
-}
-
 
 .name {
 	font-size: 23px;
@@ -45,8 +40,6 @@ img {
 	font-size: 14px;
 }
 
-nav {
-}
 
 /*!-- STYLING LINKS --> */
 

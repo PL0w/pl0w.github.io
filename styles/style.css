@@ -44,7 +44,7 @@ a {
     outline: none;
     text-decoration: none;
 }
-a:hover, a:focus, a:visited{
+a:hover, a:focus, a:visited, a:link{
     color: white;
 }
 a:hover {

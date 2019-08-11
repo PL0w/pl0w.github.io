@@ -6,6 +6,8 @@ body {
     background-color: gray;
     margin: 23% auto;
     background-image: url(../DSC_3453.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
     height: 0;
 }
 
@@ -32,14 +34,16 @@ p {
 
 .social_media {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+
 }
 
 .twitter,.github,.instagram,.linkedin{
 	font-size: 14px;
 }
 
-
+/* links */
 a {
     outline: none;
     text-decoration: none;

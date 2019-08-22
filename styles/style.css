@@ -21,15 +21,12 @@ body {
 .container {
     margin: 0 auto 0 auto;
 }
-.header {
-    display: flex;
-    justify-content: center;
-}
 
 .header-box {
     text-align: center;
     margin-top: 15em;
     background-color: rgba(66, 65, 65, 0.301);
+    width: 30.6em;
 }
 
 .about-me {

@@ -8,11 +8,11 @@ body {
     font-family: 'Roboto', sans-serif;
     font-size: 1em;
     line-height: 1.8;
-    letter-spacing: 1px;
+    /* letter-spacing: 0.5px; */
     color: white;
 
+    background-image: url(/images/DSC_3453.jpg);
     background-color: black;
-    background-image: url(../images/DSC_3453.jpg);
     background-position: top;
     background-repeat: no-repeat;
     
